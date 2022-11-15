@@ -12,7 +12,7 @@ S pomočjo programskega okolja STM32CubeIDE in HAL knjižnicami sprogramirajte m
 - **9999** milisekund.
 - *HAL_GPIO_TogglePin(GPIO**C**, GPIO_PIN_**8**);*
 - *HAL_Delay(500);*
-- Ob pritisku na moder gumb se z LED nic ne zgodi.
+- Ob pritisku na moder gumb se z LED nič ne zgodi.
 - Ne ker je v kodi napsiano tako, da modra tipka ne vpliva na LED.
 
 
