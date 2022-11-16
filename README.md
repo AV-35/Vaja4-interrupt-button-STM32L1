@@ -19,3 +19,7 @@ S pomočjo programskega okolja STM32CubeIDE in HAL knjižnicami sprogramirajte m
 # Pinout
 
 ![Pinout](media/image.png)
+
+# Komentar
+
+Koda deluje brezhibno.
